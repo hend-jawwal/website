@@ -4249,14 +4249,16 @@
 
 			.banner > article .inner {
 				width: 90%;
+				/* font-size: xx-small; */
 			}
 
 			.banner > article p {
 				margin-bottom: 1rem;
+				/* font-size: xx-small; */
 			}
 
 			.banner > article h2 {
-				font-size: 4em;
+				font-size: 2em;
 			}
 
 		}
